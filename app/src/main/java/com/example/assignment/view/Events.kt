@@ -40,6 +40,7 @@ import java.util.*
 fun Events(navController: NavController, vm: EventViewModel) {
     /* LaunchedEffect(key1 = Unit, block = {
 
+
      })*/
 
     remember {
